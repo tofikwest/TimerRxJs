@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.66915529.chunk.css",
-    "main.js": "/static/js/main.6483329f.chunk.js",
-    "main.js.map": "/static/js/main.6483329f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b0d11c39.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b0d11c39.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.115914b2.chunk.js": "/static/js/2.115914b2.chunk.js",
-    "static/js/2.115914b2.chunk.js.map": "/static/js/2.115914b2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.66915529.chunk.css.map": "/static/css/main.66915529.chunk.css.map",
-    "static/js/2.115914b2.chunk.js.LICENSE.txt": "/static/js/2.115914b2.chunk.js.LICENSE.txt"
+    "main.js": "/TimerRxJs/static/js/main.c06476d6.chunk.js",
+    "main.js.map": "/TimerRxJs/static/js/main.c06476d6.chunk.js.map",
+    "runtime-main.js": "/TimerRxJs/static/js/runtime-main.f0baf8b6.js",
+    "runtime-main.js.map": "/TimerRxJs/static/js/runtime-main.f0baf8b6.js.map",
+    "static/js/2.1b0a8529.chunk.js": "/TimerRxJs/static/js/2.1b0a8529.chunk.js",
+    "static/js/2.1b0a8529.chunk.js.map": "/TimerRxJs/static/js/2.1b0a8529.chunk.js.map",
+    "index.html": "/TimerRxJs/index.html",
+    "static/js/2.1b0a8529.chunk.js.LICENSE.txt": "/TimerRxJs/static/js/2.1b0a8529.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0d11c39.js",
-    "static/css/2.bc922b9c.chunk.css",
-    "static/js/2.115914b2.chunk.js",
-    "static/css/main.66915529.chunk.css",
-    "static/js/main.6483329f.chunk.js"
+    "static/js/runtime-main.f0baf8b6.js",
+    "static/js/2.1b0a8529.chunk.js",
+    "static/js/main.c06476d6.chunk.js"
   ]
 }
